@@ -2,7 +2,11 @@ Test RST
 ========
 
 Minimal RST docs to test building and deploying in github pages.
-The project source is `here <https://github.com/frankdarcy/test_rst_ghpages>`_.
+The project source is `here <{GITURL}>`_.
+
+.. code-block:: bash
+
+    git clone {GITURL}.git
 
 .. toctree::
     :maxdepth: 1
